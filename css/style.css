@@ -370,7 +370,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .fh5co-heading h2,
 #fh5co-event .fh5co-heading h2 {
-  color: #0ABAB5;
+  color: #81D8D0;
 }
 #fh5co-counter .fh5co-heading span,
 #fh5co-event .fh5co-heading span {
@@ -1141,9 +1141,19 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #0ABAB5;
+  color: #81D8D0 ;
   font-family: "Amsterdam", Arial, serif;
 }
+.fh5co-heading h2::after {
+    content: "";
+    display: block;
+    width: 80px;
+    height: 3px;
+    background: #81D8D0;
+    margin: 15px auto 0;
+    border-radius: 2px;
+}
+
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
     font-size: 40px;
