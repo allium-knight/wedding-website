@@ -1,1 +1,1 @@
-Source code for our wedding website.
+Source code for wedding website.
