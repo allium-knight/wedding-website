@@ -529,6 +529,21 @@ h1, h2, h3, h4, h5, h6, figure {
         align-items: center;
     }
 }
+
+@media screen and (max-width: 768px) {
+
+    #fh5co-event .event-wrap .event-col {
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    #fh5co-event .event-wrap span {
+        display: block;
+    }
+
+}
 /* new add end */
 
 #fh5co-counter {
