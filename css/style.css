@@ -544,6 +544,11 @@ h1, h2, h3, h4, h5, h6, figure {
     }
 
 }
+
+.cn-text {
+    opacity: 0.85;
+    font-size: 0.95em;
+}
 /* new add end */
 
 #fh5co-counter {
