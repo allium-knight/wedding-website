@@ -1970,6 +1970,35 @@ form label {
     }
 
 }
+/* ========================================
+   REGISTRY SECTION STYLING
+======================================== */
 
+#fh5co-registry .fh5co-heading h2 {
+    color: #81D8D0;
+}
+
+#fh5co-registry .fh5co-heading p {
+    color: rgba(0, 0, 0, 0.8);
+    font-family: "Sofia Sans Condensed";
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+/* Registry button */
+#fh5co-registry .btn-primary {
+    background: #81D8D0;
+    border-color: #81D8D0;
+    color: white;
+    border-radius: 30px;
+    padding: 12px 28px;
+    font-size: 18px;
+    transition: 0.3s ease;
+}
+
+#fh5co-registry .btn-primary:hover {
+    background: #6fc9c1;
+    border-color: #6fc9c1;
+}
 /*# sourceMappingURL=style.css.map */
 
