@@ -437,7 +437,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: block;
   color: rgba(0, 0, 0, 0.8);
   font-family: Sofia Sans Condensed;
-  font-size: 20px;
+  font-size: 22px;
 }
 #fh5co-counter .event-wrap i,
 #fh5co-event .event-wrap i {
@@ -1981,8 +1981,8 @@ form label {
 #fh5co-registry .fh5co-heading p {
     color: rgba(0, 0, 0, 0.8);
     font-family: "Sofia Sans Condensed";
-    font-size: 20px;
-    line-height: 1.8;
+    font-size: 22px;
+    line-height: 2;
 }
 
 /* Registry button */
