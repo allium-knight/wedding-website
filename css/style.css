@@ -549,6 +549,17 @@ h1, h2, h3, h4, h5, h6, figure {
     opacity: 0.85;
     font-size: 0.95em;
 }
+
+.btn-primary {
+    background: #81D8D0;
+    border-color: #81D8D0;
+}
+
+.btn-primary:hover {
+    background: #6ccac2;
+    border-color: #6ccac2;
+}
+
 /* new add end */
 
 #fh5co-counter {
