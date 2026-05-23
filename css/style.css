@@ -1945,5 +1945,31 @@ form label {
   opacity: 0;
 }
 
+/* new add */
+/* ========================================
+   GLOBAL SECTION SPACING
+======================================== */
+
+#fh5co-event,
+#fh5co-gallery,
+#fh5co-registry,
+#fh5co-services {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* Mobile spacing consistency */
+@media screen and (max-width: 768px) {
+
+    #fh5co-event,
+    #fh5co-gallery,
+    #fh5co-registry,
+    #fh5co-services {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+}
+
 /*# sourceMappingURL=style.css.map */
 
